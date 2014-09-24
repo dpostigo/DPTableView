@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "DPTableView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "DPTableView"
   s.homepage     = "http://dpostigo.com"
   s.license      = 'BSD'
